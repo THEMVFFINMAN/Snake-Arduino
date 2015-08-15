@@ -10,7 +10,7 @@ Simple Snake Game on the Arduino
 6. Pretty simple. I think at least. 
 
 
-![Snake](snake2.gif)
+![Snake](snake.gif)
 
 It's not the cleanest or prettiest but it's not bad.
 
