@@ -1,7 +1,7 @@
 # Snake-Arduino
 Simple Snake Game on the Arduino
 
-######I've seen quite a few snake projects online and I just wasn't too happy about the code I saw. Here is what sets mine apart. 
+######I've seen quite a few snake projects online and I just wasn't too happy about the code I saw. Here is what sets mine apart:
 1. Doesn't let you go through walls, you will die.
 2. Only left or right button instead of up, down, left, right buttons.
 3. Actually has a death screen and resets afterwards.
